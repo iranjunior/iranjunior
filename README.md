@@ -27,7 +27,4 @@
 <a href="https://github.com/iranjunior">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iranjunior&show_icons=true&theme=radical&line_height=27" alt="Pawan's github stats"/>
 </a>
-<a href="https://github.com/iranjunior">
- <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=iranjunior&theme=radical" alt="Iran Junior github stats"/>
-</a>
 
