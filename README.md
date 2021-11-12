@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Iran Junior</h1>
 <h3 align="center">A passionate frontend developer from Brazil</h3>
 
-- 🔭 I’m currently working on [Midway](https://apps.apple.com/us/app/midway-app/id1548732480)
+- 🔭 I’m currently working on [Nubank](https://nubank.com)
 
 - 🌱 I’m currently learning **Flutter**
 
